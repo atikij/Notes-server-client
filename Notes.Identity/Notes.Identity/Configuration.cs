@@ -40,15 +40,15 @@ public static class Configuration
                 RequireClientSecret = false,
                 RedirectUris =
                 {
-                    "http://.../signin-oidc"
+                    "http://localhost:3000/signin-oidc"
                 },
                 AllowedCorsOrigins =
                 {
-                    "http://..."
+                    "http://localhost:3000"
                 },
                 PostLogoutRedirectUris =
                 {
-                    "http://.../signin-iodc"
+                    "http://localhost:3000/signin-iodc"
                 },
                 AllowedScopes =
                 {

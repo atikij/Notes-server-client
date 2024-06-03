@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6DNSe70K7/3YJbdb27yZPpO+w0ZbNcUZDfpuR/8bvLjR75kTH7a8BPDk4UcwinLtJ4zFbSVzEtkF6iVbb5P+WQ==",
+  "dgSpecHash": "SjaskpmimGhVMwb3YR2+Xc2gDUqd6ZqE1aYNPI975tVKj4axno8O4Z8lAaHSHgis5TZxzhG4pC4BU+EkxLCqkg==",
   "success": true,
-  "projectFilePath": "D:\\rider repos\\Notes.Identity\\Notes.Identity\\Notes.Identity.csproj",
+  "projectFilePath": "D:\\rider repos\\Notes\\Notes.Identity\\Notes.Identity\\Notes.Identity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\пк\\.nuget\\packages\\identitymodel\\4.4.0\\identitymodel.4.4.0.nupkg.sha512",
     "C:\\Users\\пк\\.nuget\\packages\\identityserver4\\4.1.2\\identityserver4.4.1.2.nupkg.sha512",

@@ -1936,11 +1936,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\rider repos\\Notes.Identity\\Notes.Identity\\Notes.Identity.csproj",
+      "projectUniqueName": "D:\\rider repos\\Notes\\Notes.Identity\\Notes.Identity\\Notes.Identity.csproj",
       "projectName": "Notes.Identity",
-      "projectPath": "D:\\rider repos\\Notes.Identity\\Notes.Identity\\Notes.Identity.csproj",
+      "projectPath": "D:\\rider repos\\Notes\\Notes.Identity\\Notes.Identity\\Notes.Identity.csproj",
       "packagesPath": "C:\\Users\\пк\\.nuget\\packages\\",
-      "outputPath": "D:\\rider repos\\Notes.Identity\\Notes.Identity\\obj\\",
+      "outputPath": "D:\\rider repos\\Notes\\Notes.Identity\\Notes.Identity\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\пк\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2009,7 +2009,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.423\\RuntimeIdentifierGraph.json"
       }
     }
   }
