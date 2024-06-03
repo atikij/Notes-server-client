@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Notes.Identity", "Notes.Identity\Notes.Identity.csproj", "{4676BC26-AC90-4C80-AF60-42F35C9EED50}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Identity", "Identity\Identity.csproj", "{4676BC26-AC90-4C80-AF60-42F35C9EED50}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
